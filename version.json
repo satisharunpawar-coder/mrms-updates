@@ -1,9 +1,6 @@
 {
   "version": "1.0.3",
-  "release_notes": "MRMS Android 1.0.3
-
-                    Initial Android release of MRMS.
-                    
-                    • Notifications Alert",
+  "release_notes": "MRMS Android 1.0.3 ",
+                
   "download_url": "https://github.com/satisharunpawar-coder/mrms-updates/releases/download/v1.0.3/app-release.apk"
 }
